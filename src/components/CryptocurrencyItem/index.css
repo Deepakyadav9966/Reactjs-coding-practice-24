@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.inner-div {
+  display: flex;
+  align-items: center;
+  gap:10px;
+}
+.name{
+  font-size: 1rem;
+  font-weight:bold;
+}
+.inner-div2 {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  text-align: right;
+}
+p {
+  color: white;
+}
+.logo {
+  height: 30px;
+}
+.currency {
+  text-align: right;
+  font-weight: bold;
+}
